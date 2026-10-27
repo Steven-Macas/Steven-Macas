@@ -30,10 +30,10 @@ I'm a **data engineer and data analyst** based in Granada, Spain. I turn data in
 </p>
 <p align="center">
   <a href="https://github.com/Steven-Macas/kmeans_mall_customers"><img src="./assets/projects/customer-segmentation.svg" alt="Customer Segmentation — K-Means on mall customers" width="49%" /></a>
-  <a href="https://github.com/Steven-Macas/Breast_Cancer-Red_Neuronal"><img src="./assets/projects/breast-cancer-classifier.svg" alt="Breast Cancer Classifier — 98.5% test accuracy" width="49%" /></a>
+  <a href="https://github.com/Steven-Macas/Breast_Cancer-Red_Neuronal"><img src="./assets/projects/breast-cancer-classifier.svg" alt="Breast Cancer Classifier — 93.6% test accuracy, AUC 0.98" width="49%" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Steven-Macas/deepLearning_SAA"><img src="./assets/projects/deep-learning-vision.svg" alt="Deep Learning Vision Lab — 96.8% validation accuracy with InceptionV3" width="49%" /></a>
+  <a href="https://github.com/Steven-Macas/deepLearning_SAA"><img src="./assets/projects/deep-learning-vision.svg" alt="Deep Learning Vision Lab — 97% validation accuracy with InceptionV3" width="49%" /></a>
   <a href="https://github.com/Steven-Macas/ChatBot-CitaCoche"><img src="./assets/projects/citacoche-chatbot.svg" alt="CitaCoche Chatbot — Android app connected to Dialogflow" width="49%" /></a>
 </p>
 

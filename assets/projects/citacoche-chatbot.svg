@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-label="CitaCoche Chatbot: Android chatbot connected to Dialogflow that answers questions about car appointments.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0c22"/><stop offset="1" stop-color="#120f30"/></linearGradient>
+  <radialGradient id="glow" cx="0.85" cy="0.15" r="0.6"><stop offset="0" stop-color="#5a8cff" stop-opacity="0.32"/><stop offset="1" stop-color="#5a8cff" stop-opacity="0"/></radialGradient>
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3d7bff"/><stop offset="0.55" stop-color="#7b4dff"/><stop offset="1" stop-color="#c04dff"/></linearGradient>
+</defs>
+<style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }</style>
+<rect x="0.5" y="0.5" width="599" height="259" rx="22" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="599" height="259" rx="22" fill="url(#glow)" stroke="#ffffff" stroke-opacity="0.09"/>
+<rect x="32" y="30" width="135" height="28" rx="14" fill="#5a8cff" fill-opacity="0.16" stroke="#5a8cff" stroke-opacity="0.5"/>
+<text x="46" y="49" font-size="13" font-weight="600" fill="#e6e8f5" letter-spacing="0.4">Android · NLP</text>
+<text x="32" y="104" font-size="29" font-weight="600" fill="#ffffff" letter-spacing="-0.4">CitaCoche Chatbot</text>
+<text x="32" y="140" font-size="16.5" fill="#a9aec8">Android chatbot connected to Dialogflow that</text><text x="32" y="164" font-size="16.5" fill="#a9aec8">answers questions about car appointments.</text>
+<rect x="32" y="200" width="167" height="30" rx="15" fill="#4ade80" fill-opacity="0.13"/>
+<text x="115" y="220" font-size="13.5" font-weight="600" fill="#4ade80" text-anchor="middle">Dialogflow intents</text>
+<text x="215" y="220" font-size="13.5" fill="#8d92ad">Java · Android · Dialogflow</text>
+<rect x="470" y="44" width="76" height="26" rx="12" fill="#ffffff" fill-opacity="0.1"/><rect x="498" y="78" width="72" height="26" rx="12" fill="url(#brand)"/><rect x="470" y="112" width="40" height="24" rx="12" fill="#ffffff" fill-opacity="0.1"/><circle cx="481" cy="124" r="2.6" fill="#a9b4ff"/><circle cx="490" cy="124" r="2.6" fill="#a9b4ff"/><circle cx="499" cy="124" r="2.6" fill="#a9b4ff"/>
+<path d="M554 224 l12 -12 m-9 0 h9 v9" stroke="#8d92ad" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-label="Deep Learning Vision Lab: Image classification notebooks, from scratch to transfer learning with InceptionV3.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0c22"/><stop offset="1" stop-color="#120f30"/></linearGradient>
+  <radialGradient id="glow" cx="0.85" cy="0.15" r="0.6"><stop offset="0" stop-color="#6d6bff" stop-opacity="0.32"/><stop offset="1" stop-color="#6d6bff" stop-opacity="0"/></radialGradient>
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3d7bff"/><stop offset="0.55" stop-color="#7b4dff"/><stop offset="1" stop-color="#c04dff"/></linearGradient>
+</defs>
+<style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }</style>
+<rect x="0.5" y="0.5" width="599" height="259" rx="22" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="599" height="259" rx="22" fill="url(#glow)" stroke="#ffffff" stroke-opacity="0.09"/>
+<rect x="32" y="30" width="167" height="28" rx="14" fill="#6d6bff" fill-opacity="0.16" stroke="#6d6bff" stroke-opacity="0.5"/>
+<text x="46" y="49" font-size="13" font-weight="600" fill="#e6e8f5" letter-spacing="0.4">Transfer learning</text>
+<text x="32" y="104" font-size="29" font-weight="600" fill="#ffffff" letter-spacing="-0.4">Deep Learning Vision Lab</text>
+<text x="32" y="140" font-size="16.5" fill="#a9aec8">Image classification notebooks, from scratch</text><text x="32" y="164" font-size="16.5" fill="#a9aec8">to transfer learning with InceptionV3.</text>
+<rect x="32" y="200" width="220" height="30" rx="15" fill="#4ade80" fill-opacity="0.13"/>
+<text x="142" y="220" font-size="13.5" font-weight="600" fill="#4ade80" text-anchor="middle">96.8% validation accuracy</text>
+<text x="268" y="220" font-size="13.5" fill="#8d92ad">TensorFlow · InceptionV3 · OpenCV</text>
+<rect x="464" y="34" width="112" height="112" rx="12" fill="none" stroke="#4ade80" stroke-width="1.5" stroke-dasharray="5 4"/><ellipse cx="520" cy="64" rx="7" ry="20" fill="#f4f6ff" transform="rotate(0.0 520 90)"/><ellipse cx="520" cy="64" rx="7" ry="20" fill="#f4f6ff" transform="rotate(25.7 520 90)"/><ellipse cx="520" cy="64" rx="7" ry="20" fill="#f4f6ff" transform="rotate(51.4 520 90)"/><ellipse cx="520" cy="64" rx="7" ry="20" fill="#f4f6ff" transform="rotate(77.1 520 90)"/><ellipse cx="520" cy="64" rx="7" ry="20" fill="#f4f6ff" transform="rotate(102.9 520 90)"/><ellipse cx="520" cy="64" rx="7" ry="20" fill="#f4f6ff" transform="rotate(128.6 520 90)"/><ellipse cx="520" cy="64" rx="7" ry="20" fill="#f4f6ff" transform="rotate(154.3 520 90)"/><ellipse cx="520" cy="64" rx="7" ry="20" fill="#f4f6ff" transform="rotate(180.0 520 90)"/><ellipse cx="520" cy="64" rx="7" ry="20" fill="#f4f6ff" transform="rotate(205.7 520 90)"/><ellipse cx="520" cy="64" rx="7" ry="20" fill="#f4f6ff" transform="rotate(231.4 520 90)"/><ellipse cx="520" cy="64" rx="7" ry="20" fill="#f4f6ff" transform="rotate(257.1 520 90)"/><ellipse cx="520" cy="64" rx="7" ry="20" fill="#f4f6ff" transform="rotate(282.9 520 90)"/><ellipse cx="520" cy="64" rx="7" ry="20" fill="#f4f6ff" transform="rotate(308.6 520 90)"/><ellipse cx="520" cy="64" rx="7" ry="20" fill="#f4f6ff" transform="rotate(334.3 520 90)"/><circle cx="520" cy="90" r="11" fill="#f5c84c"/>
+<path d="M554 224 l12 -12 m-9 0 h9 v9" stroke="#8d92ad" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-label="Fashion Image Classifier: Neural network that recognises 10 types of clothing in Zalando's Fashion-MNIST images.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0c22"/><stop offset="1" stop-color="#120f30"/></linearGradient>
+  <radialGradient id="glow" cx="0.85" cy="0.15" r="0.6"><stop offset="0" stop-color="#8b5cf6" stop-opacity="0.32"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3d7bff"/><stop offset="0.55" stop-color="#7b4dff"/><stop offset="1" stop-color="#c04dff"/></linearGradient>
+</defs>
+<style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }</style>
+<rect x="0.5" y="0.5" width="599" height="259" rx="22" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="599" height="259" rx="22" fill="url(#glow)" stroke="#ffffff" stroke-opacity="0.09"/>
+<rect x="32" y="30" width="135" height="28" rx="14" fill="#8b5cf6" fill-opacity="0.16" stroke="#8b5cf6" stroke-opacity="0.5"/>
+<text x="46" y="49" font-size="13" font-weight="600" fill="#e6e8f5" letter-spacing="0.4">Deep learning</text>
+<text x="32" y="104" font-size="29" font-weight="600" fill="#ffffff" letter-spacing="-0.4">Fashion Image Classifier</text>
+<text x="32" y="140" font-size="16.5" fill="#a9aec8">Neural network that recognises 10 types of</text><text x="32" y="164" font-size="16.5" fill="#a9aec8">clothing in Zalando's Fashion-MNIST images.</text>
+<rect x="32" y="200" width="174" height="30" rx="15" fill="#4ade80" fill-opacity="0.13"/>
+<text x="119" y="220" font-size="13.5" font-weight="600" fill="#4ade80" text-anchor="middle">88.5% test accuracy</text>
+<text x="222" y="220" font-size="13.5" fill="#8d92ad">TensorFlow · Keras · NumPy</text>
+<rect x="470" y="40" width="32" height="40" rx="6" fill="#04050c" stroke="#ffffff" stroke-opacity="0.1"/><path d="M30 15 L42 10 Q50 18 58 10 L70 15 L88 30 L78 42 L70 36 L70 90 L30 90 L30 36 L22 42 L12 30 Z" transform="translate(474 46) scale(0.24)" fill="#c9d3ff" opacity="0.55"/><rect x="506" y="40" width="32" height="40" rx="6" fill="#04050c" stroke="#ffffff" stroke-opacity="0.1"/><path d="M30 15 L42 10 Q50 18 58 10 L70 15 L88 30 L78 42 L70 36 L70 90 L30 90 L30 36 L22 42 L12 30 Z" transform="translate(510 46) scale(0.24)" fill="#c9d3ff" opacity="0.62"/><rect x="542" y="40" width="32" height="40" rx="6" fill="#04050c" stroke="#ffffff" stroke-opacity="0.1"/><path d="M30 15 L42 10 Q50 18 58 10 L70 15 L88 30 L78 42 L70 36 L70 90 L30 90 L30 36 L22 42 L12 30 Z" transform="translate(546 46) scale(0.24)" fill="#c9d3ff" opacity="0.69"/><rect x="470" y="86" width="32" height="40" rx="6" fill="#04050c" stroke="#ffffff" stroke-opacity="0.1"/><path d="M30 15 L42 10 Q50 18 58 10 L70 15 L88 30 L78 42 L70 36 L70 90 L30 90 L30 36 L22 42 L12 30 Z" transform="translate(474 92) scale(0.24)" fill="#c9d3ff" opacity="0.76"/><rect x="506" y="86" width="32" height="40" rx="6" fill="#04050c" stroke="#ffffff" stroke-opacity="0.1"/><path d="M30 15 L42 10 Q50 18 58 10 L70 15 L88 30 L78 42 L70 36 L70 90 L30 90 L30 36 L22 42 L12 30 Z" transform="translate(510 92) scale(0.24)" fill="#c9d3ff" opacity="0.83"/><rect x="542" y="86" width="32" height="40" rx="6" fill="#04050c" stroke="#ffffff" stroke-opacity="0.1"/><path d="M30 15 L42 10 Q50 18 58 10 L70 15 L88 30 L78 42 L70 36 L70 90 L30 90 L30 36 L22 42 L12 30 Z" transform="translate(546 92) scale(0.24)" fill="#c9d3ff" opacity="0.90"/>
+<path d="M554 224 l12 -12 m-9 0 h9 v9" stroke="#8d92ad" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>

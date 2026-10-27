@@ -59,7 +59,17 @@ I'm a **data engineer and data analyst** based in Granada, Spain. I turn data in
 ### Contribution city
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-gointy.svg" alt="3D contribution calendar of Steven Macas" width="100%" />
+  <img src="./profile-3d-contrib/profile-gointy-2023.svg" alt="3D contribution calendar of Steven Macas in 2023" width="100%" />
+  <br />
+  <sub>2023 · the year of my specialisation in Artificial Intelligence &amp; Big Data</sub>
 </p>
+
+<details>
+<summary><b>Last 12 months</b> · updated every day</summary>
+<br />
+<p align="center">
+  <img src="./profile-3d-contrib/profile-gointy.svg" alt="3D contribution calendar of Steven Macas, last 12 months" width="100%" />
+</p>
+</details>
 
 <p align="center"><sub>Ideas → Products · <a href="https://gointy.com">gointy.com</a></sub></p>

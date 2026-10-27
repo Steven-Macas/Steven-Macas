@@ -11,6 +11,7 @@ on:
     paths:
       - ".github/workflows/profile-3d-contrib.yml"
       - ".github/profile-3d.json"
+      - ".github/profile-3d-2023.json"
 
 permissions:
   contents: write
@@ -25,6 +26,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/profile-3d.json
+      # Ciudad de 2023 (año de la especialización en IA y Big Data)
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d-2023.json
+          YEAR: "2023"
       - name: Commit & push
         run: |
           git config user.name github-actions

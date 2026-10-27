@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-gointy-2023.svg",
+  "backgroundColor": "#05060f",
+  "foregroundColor": "#eceef8",
+  "strongColor": "#c04dff",
+  "weakColor": "#8d92ad",
+  "radarColor": "#7b4dff",
+  "growingAnimation": true,
+  "contribColors": [
+    "#1a1e3d",
+    "#2f4bc4",
+    "#4f7dff",
+    "#8b5cf6",
+    "#c04dff"
+  ]
+}
